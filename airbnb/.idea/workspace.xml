@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f51cf498-ec90-4561-b60a-6a737b3ce6fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/project_set.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/request/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/request/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
-    </list>
+    <list default="true" id="f51cf498-ec90-4561-b60a-6a737b3ce6fb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,11 +77,30 @@
       <workItem from="1681023662262" duration="927000" />
       <workItem from="1681024595245" duration="877000" />
       <workItem from="1681025548031" duration="4353000" />
-      <workItem from="1681029921662" duration="1749000" />
+      <workItem from="1681029921662" duration="1901000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: airbnb项目初始化">
+      <created>1681031757186</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681031757186</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: airbnb项目初始化">
+      <created>1681031792572</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681031792572</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: airbnb项目初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: airbnb项目初始化" />
   </component>
 </project>
